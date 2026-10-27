@@ -15,21 +15,17 @@
 
 Hey there! I'm Irene, a technology enthusiast passionate about building digital experiences that combine creativity, functionality, and innovation.
 
-- 💻 Full-Stack Developer passionate about frontend and backend development
-- 🎨 UI/UX Designer focused on creating intuitive and user-friendly interfaces
-- ♻️ Currently building **WasteNova**, a smart waste management system
-- 🌱 Continuously learning and exploring modern technologies
-- 🤝 Open to collaborations, internships, and exciting opportunities
+-  Full-Stack Developer passionate about frontend and backend development,UI/UX Designer focused on creating intuitive and user-friendly interfaces .Currently building **WasteNova**, a smart waste management system,Continuously learning and exploring modern technologies.Open to collaborations and exciting opportunities
 - 📫 Reach me at **irenkalumna@gmail.com**
 
 ---
 
 ## 💡 What I Do
 
-- 🎨 **UI/UX Design** — Transforming ideas into intuitive digital experiences
-- 🖥️ **Frontend Development** — Building responsive and interactive web interfaces
-- ⚙️ **Backend Development** — Developing application logic and connecting APIs
-- 🚀 **Problem Solving** — Using technology to create practical solutions
+-  **UI/UX Design** — Transforming ideas into intuitive digital experiences
+-  **Frontend Development** — Building responsive and interactive web interfaces
+-  **Backend Development** — Developing application logic and connecting APIs
+-  **Problem Solving** — Using technology to create practical solutions
 
 ---
 
